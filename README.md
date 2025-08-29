@@ -23,6 +23,7 @@ Currently working on projects with **[React, Next.js , Laravel, Flutter , ReactN
 
 🌟🎵 [**My Blog & Music App**](https://blogify.laravel.cloud)  
 A full-stack blog built with **Laravel + React (Vite)**. Features - article tags & programming, likes, comments, save and authentication. A React-based music player.
+
 📱 [**Flutter Auth App**](https://github.com/yourusername/flutter-auth)  
 A mobile app with **JWT authentication** connected to a **PHP backend API**.  
 
