@@ -21,21 +21,17 @@ Currently working on projects with **[React, Next.js , Laravel, Flutter , ReactN
 
 ## 📌 Featured Projects
 
-🌟 [**My Blog App**](https://github.com/yourusername/blog-app)  
-A full-stack blog built with **Laravel + React (Vite)**. Features article tags, comments, and authentication.  
-
+🌟🎵 [**My Blog & Music App**](https://blogify.laravel.cloud)  
+A full-stack blog built with **Laravel + React (Vite)**. Features - article tags & programming, likes, comments, save and authentication. A React-based music player.
 📱 [**Flutter Auth App**](https://github.com/yourusername/flutter-auth)  
 A mobile app with **JWT authentication** connected to a **PHP backend API**.  
-
-🎵 [**Music Player**](https://github.com/yourusername/music-player)  
-A React-based music player with "Recently Played" and "Liked Songs" features.  
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HtetKoOo&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HtetKoOo&layout=compact&theme=tokyonight)
 
 ---
 
