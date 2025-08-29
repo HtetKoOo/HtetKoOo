@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! 🚀  
 I’m passionate about **web development, open-source contributions, and learning new technologies**.  
-Currently working on projects with **[React, Next.js , Laravel, Flutter , ReactNative]**
+Currently working on projects with **[React, Next.js , Laravel]**
 
 ---
 
