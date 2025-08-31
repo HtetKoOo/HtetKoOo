@@ -11,8 +11,8 @@ Currently working on projects with **[React, Next.js , Laravel]**
 ## 🛠️ Tech Stack
 
 - **Languages:** JavaScript, PHP, Python, C
-- **Frontend:** React, Next.js, Vite, TailwindCSS
-- **Backend:** Laravel, Node.js, Express
+- **Frontend:** React (vite.js), Bootstrap, Next.js 
+- **Backend:** Laravel, Django
 - **Mobile:** Flutter, ReactNative
 - **Database:** MySQL, MongoDB
 - **Tools:** Git, GitHub, Postman
@@ -24,8 +24,8 @@ Currently working on projects with **[React, Next.js , Laravel]**
 🌟🎵 [**My Blog & Music App**](https://blogify.laravel.cloud)  
 A full-stack blog built with **Laravel + React (Vite)**. Features - article tags & programming, likes, comments, save and authentication. A React-based music player.
 
-📱 [**Flutter Auth App**](https://github.com/yourusername/flutter-auth)  
-A mobile app with **JWT authentication** connected to a **PHP backend API**.  
+📱 [**Flutter Auth App**](https://github.com/.../flutter-auth)  
+A mobile app with **JWT authentication** connected to a **PHP backend API**.  (comming  soon ...)
 
 ---
 
