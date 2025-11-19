@@ -24,7 +24,7 @@ Currently working on projects with **[React, Next.js , Laravel]**
 🌟🎵 [**My Blog & Music App**](https://blogify.laravel.cloud)  
 A full-stack blog built with **Laravel + React (Vite)**. Features - article tags & programming, likes, comments, save and authentication. A React-based music player.
 
-🎬 Movie-House (https://movie-house-phi.vercel.app)
+🎬 [**Movie App**](https://movie-house-phi.vercel.app)   
 A dynamic movie browsing web app built with Next.js (App Router) and TMDb API. Features include movie search, filters, cast details, trailers, and responsive UI.
 
 📱 [**Flutter Auth App**](https://github.com/.../flutter-auth)  
