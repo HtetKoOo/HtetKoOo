@@ -34,7 +34,7 @@ A mobile app with **JWT authentication** connected to a **PHP backend API**.  (c
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HtetKoOo&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=htetkooo&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HtetKoOo&layout=compact&theme=tokyonight)
 
 ---
