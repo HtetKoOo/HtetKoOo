@@ -39,6 +39,23 @@ A mobile app with **JWT authentication** connected to a **PHP backend API**.  (c
 
 ---
 
+### 🚀 GitHub Highlights
+<p align="center">
+  <a href="https://github.com/zawhlaingphyotsuki">
+    <img height="180em" src="https://git-hub-streak-stats.vercel.app?user=ZawHlaingPhyoTsuki&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zawhlaingphyotsuki&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/zawhlaingphyotsuki">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawhlaingphyotsuki&layout=compact&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  💡 Active Contributor at <a href="https://github.com/One-Project-One-Month"><b>One Project One Month</b></a>
+</p>
+
+---
+
 ## 🌍 Connect with Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/htet-ko-oo-602913315)  
