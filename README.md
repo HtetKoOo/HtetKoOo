@@ -34,19 +34,9 @@ A mobile app with **JWT authentication** connected to a **PHP backend API**.  (c
 
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HtetKoOo)](https://github.com/HtetKoOo/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HtetKoOo&layout=compact&theme=tokyonight)
-
----
-
-### 🚀 GitHub Highlights
 <p align="center">
-  <a href="https://github.com/zawhlaingphyotsuki">
-    <img height="180em" src="https://git-hub-streak-stats.vercel.app?user=ZawHlaingPhyoTsuki&theme=radical" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zawhlaingphyotsuki&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/zawhlaingphyotsuki">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawhlaingphyotsuki&layout=compact&theme=radical" />
+  <a href="https://github.com/htetkooo">
+    <img height="180em" src="https://git-hub-streak-stats.vercel.app?user=HtetKoOo&theme=radical" />
   </a>
 </p>
 
