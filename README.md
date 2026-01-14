@@ -11,11 +11,11 @@ Currently working on projects with **[React, Next.js , Laravel]**
 ## 🛠️ Tech Stack
 
 - **Languages:** JavaScript, PHP, Python, C
-- **Frontend:** React (vite.js), Bootstrap, Next.js 
+- **Frontend:** React, Next.js 
 - **Backend:** Laravel, Django
 - **Mobile:** Flutter, ReactNative
-- **Database:** MySQL, MongoDB
-- **Tools:** Git, GitHub, Postman
+- **Database:** MySQL, Postgres, MongoDB
+- **Tools:** Git, GitHub, Postman, Docker
 
 ---
 
@@ -27,8 +27,8 @@ A full-stack blog built with **Laravel + React (Vite)**. Features - article tags
 🎬 [**Movie App**](https://movie-house-phi.vercel.app)   
 A dynamic movie browsing web app built with Next.js (App Router) and TMDb API. Features include movie search, filters, cast details, trailers, and responsive UI.
 
-📱 [**Flutter Auth App**](https://github.com/.../flutter-auth)  
-A mobile app with **JWT authentication** connected to a **PHP backend API**.  (comming  soon ...)
+💬 [**Real-time Room Chat Web App**](https://realtime-room-chat.vercel.app)  
+A real-time messaging application built with Next.js. Features include secure private room creation, live message updates, and a responsive interface.
 
 ---
 
